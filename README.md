@@ -1,5 +1,5 @@
 
-##Welcome to the Football Stats Analysis project. This project leverages the powerful data manipulation capabilities of Pandas in Python to analyze football statistics. Our goal is to extract meaningful insights from various football statistics by loading, aggregating, and clustering the data.
+## Welcome to the Football Stats Analysis project. This project leverages the powerful data manipulation capabilities of Pandas in Python to analyze football statistics. Our goal is to extract meaningful insights from various football statistics by loading, aggregating, and clustering the data.
 
 ## Project Workflow Overview
 
