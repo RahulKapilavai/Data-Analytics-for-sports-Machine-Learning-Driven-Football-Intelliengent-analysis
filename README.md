@@ -26,7 +26,6 @@ Imputing Missing Values and Training a Regression Model: Missing values in the d
 Getting Started
 To run the code and replicate the analysis, follow these steps:
 
-Clone the repository: git clone https://github.com/your-repo.git
 Install the required Python packages: pip install pandas numpy scikit-learn scipy matplotlib
 Place the football_statss.xlsx file in the repository directory.
 Run the Jupyter Notebook or Python script containing the analysis code.
